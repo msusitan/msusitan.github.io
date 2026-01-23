@@ -18,7 +18,7 @@
     
   ),
   footer-elements: (
-    "It' s kind of fun to do the impossible.",
-    [——Walter Disney],
+    "“It' s kind of fun to do the impossible.”",
+    [—— Walter Disney],
   ),
 )

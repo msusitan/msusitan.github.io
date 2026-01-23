@@ -13,22 +13,29 @@
   The tufted duck (_Aythya fuligula_) is a medium-sized diving duck native to Eurasia. Known for its diving ability, it can plunge to great depths to forage for food.
 ]
 
-= Sitan Su
+= Hi, I'm Sitan Su
 
-这是一个基于 #link("https://typst.app/")[Typst] 和 #link("https://github.com/vsheg/tufted")[Tufted] 的静态网站构建模板，手把手教你搭建简洁、美观的个人博客、作品集和简历设计。
+I am currently a postgraduate student at the London School of Economics and Political Science (Dept of Geography and Environment). Before that, I received my bachelor's degree with honors in Dept of Sociology at the University of Macau and University of Michigan, Ann Arbor.
 
-#figure(caption: "网站示例")[#image("imgs/devices.webp")]
+My research primarily draws on qualitative methods using interviews, observations, and textual data. The research interests cut across various fields, including human geography, material anthropology, digital culture studies and tourism. I'm currently working on the topics below.
 
-如果你通过访问本地地址（运行 `preview` 或其他本地服务）中看到了本页面，说明你已经成功安装了依赖、成功构建了网页、成功运行了预览。恭喜你！
+1. The role of independent bookstores as a public space featuring intellegence in Chinese authoritarian urbanism;
+2. Independent video games as a methods of preserving and developing cultural heritage and social memory;
+3. Material culture and emotions of nostalgia/vintage in digital time tourism;
+4. The contextual analysis of East Asian erotic comics and how do they influence the perception of gender.
 
-想要使用这个模板编写你自己的网站，你需要学会使用 Typst。放心，非常好上手。
 
-我在目前的网站中包含了尽可能多的 Typst 用例#footnote[例如文字、段落、分级标题、引用块、代码块、有序列表、无序列表、表格、图片、公式、链接、脚注、参考文献、嵌入 markdown 等。这块文字便是脚注，使用 `#footnote()` 函数编写。]，你可以在源代码中看到这些内容的 Typst 实现。我也包含了丰富的文档来帮助你编写页面和部署网站，你可以在 #link("/Docs/")[Docs] 页看到这些文档。
 
-== 🎨 样式特点
+== More than that...
 
-#link("https://edwardtufte.github.io/tufte-css/")[*Tufte 样式*] 源于数据可视化大师 Edward Tufte#footnote[爱德华·罗尔夫·塔夫特（生于1942年3月14日），常被称为“ET”，是美国统计学家，耶鲁大学政治学、统计学与计算机科学荣休教授。他因在信息设计领域的著述和作为数据可视化领域的先驱而闻名。] 的设计理念，主张“内容至上”与极简主义，力求去除一切干扰信息的视觉杂音。
+**Reading**: I like Ernest Hemingway, Gabriel García Márquez, Haruki Murakami, Fyodor Dostoevsky, and so on. I don't like Victor Hugo, Viktor Astafyev, so forth.
 
-#link("https://edwardtufte.github.io/tufte-css/")[*The Tufte style*] originates from the design philosophy of data visualization master _Edward Tufte_#footnote[Edward Rolf Tufte (/ˈtʌfti/; born March 14, 1942), sometimes known as "ET", is an American statistician and professor emeritus of political science, statistics, and computer science at Yale University. He is noted for his writings on information design and as a pioneer in the field of data visualization.], advocating for a "content-first" approach and minimalism while striving to eliminate all visual noise that distracts from the information.
+**Diet**: I like spaghetti, beer, tiramisu, all tomato-based products, pineapples, etc. I don't like slimy vegetables (such as fungus and loofah), durians, and things that are too spicy.
 
-其最鲜明的特点是采用*宽大的侧边栏布局*，将注释、参考文献和图表直接并排展示在正文旁，取代了传统的脚注或尾注，配合优雅的*衬线字体*与*类纸张背景*，在数字屏幕上复刻了如经典学术著作般清晰、优雅、沉浸的深度阅读体验。
+**Music**: I like jazz, folk music, indie music, J-Pop, and so forth. I don't like K-Pop, TickTock songs, overly popular pop music, electronic music, rap, and so on.
+
+**Entertainment**: I like traveling on foot or by public transportation, riding a bicycle, swimming, and the like. I don't like TickTock, noisy bars, and being with too many people I don't know.  
+
+**Others**: I like swing dance, plants with big leaves or small flowers, Polaroid, film photography, sending postcards in foreign countries, writing letters, movies and TV series, etc. I don't like cosplay, platform shoes, heavy makeup, and mobile phone games.   
+
+
