@@ -6,10 +6,8 @@
   // 然后在 `content/` 路径中新建 `Entry/`路径，在其中添加 `index.typ` 作为 Entry 页的内容
   header-links: (
     "/": "Home",
-    "/Docs/": "Docs",
     "/Blog/": "Blog",
     "/CV/": "CV",
-    "/Changelog/": "Changelog",
   ),
   lang: "zh",
   title: "Hi, I'm Sitan.", // 你的网站在浏览器中显示的标题
@@ -21,6 +19,6 @@
   ),
   footer-elements: (
     "It' s kind of fun to do the impossible.",
-    [Walter Disney],
+    [——Walter Disney],
   ),
 )

@@ -8,14 +8,12 @@
   image("imgs/tufted-duck-male.webp")
 })
 
-#tufted.margin-note[
-  凤头潜鸭（学名 _Aythya fuligula_）是一种中型潜水鸭，原生于欧亚大陆。凭借卓越的潜水能力，它们能深入水下捕食猎物。
-]
+
 #tufted.margin-note[
   The tufted duck (_Aythya fuligula_) is a medium-sized diving duck native to Eurasia. Known for its diving ability, it can plunge to great depths to forage for food.
 ]
 
-= Tufted 博客模板
+= Sitan Su
 
 这是一个基于 #link("https://typst.app/")[Typst] 和 #link("https://github.com/vsheg/tufted")[Tufted] 的静态网站构建模板，手把手教你搭建简洁、美观的个人博客、作品集和简历设计。
 
