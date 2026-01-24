@@ -10,4 +10,4 @@
 
 == 2024
 
-- #link("2024-10-04-iterators-generators/")[Iterators vs Generators in Python]
+- #link("2023-03-29-birthday-feelings/")[23歲！]
