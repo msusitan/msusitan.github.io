@@ -2,64 +2,24 @@
 #show: template.with(title: "Edward R. Tufte")
 #import "@preview/citegeist:0.2.0": load-bibliography
 
-= Edward R. Tufte
+= Sitan Su
 
 #tufted.margin-note[
-  Statistician, Artist, and Professor Emeritus \
-  Website: #link("https://www.edwardtufte.com")[edwardtufte.com] \
-  Email: #link("mailto:noreply@edwardtufte.com", "noreply@edwardtufte.com")
+  Telephone: +44 07741523138 \
+  Website: #link("https://msusitan.github.io")[msusitan.github.io] \
+  Email: #link("mailto:s.su16@lse.ac.uk", "s.su16@lse.ac.uk")
 ]
-
-#link("CV-PDF.pdf")[[PDF version is available! Click me!]]\
-#link("CV-PDF.pdf")[[点击这里查看 PDF 版本！]]
-
-Research in statistical evidence and analytical design for information visualization, integrating principles from statistics, graphic design, and cognitive science for the effective presentation of quantitative data.
-
-== Experience
-
-- *1983--Present*: Founder & Publisher, Graphics Press. Independent publishing house specializing in information design and data visualization.
-- *1977--1999*: Professor Emeritus, Yale University. Departments of Political Science, Statistics, and Computer Science.
-- *1967--1977*: Instructor, Princeton University. Woodrow Wilson School of Public and International Affairs.
-
-== Artworks
-
-#tufted.margin-note[
-  #image("escaping-flatland.webp")
-]
-
-#tufted.margin-note[
-  A homage to Edward R. Tufte's large stainless steel sculpture titled _Escaping Flatland_
-]
-
-Founder of Hogpen Hill Farms, a 234-acre sculpture park in Woodbury, Connecticut. Creator of large-scale works including _Larkin’s Twig_ and the _Escaping Flatland_ series, exhibited at the Aldrich Contemporary Art Museum.
-
-== Research Contributions
-
-Development of sparklines, a method for embedding high-resolution data graphics within text, and formulation of the data-ink ratio as a quantitative measure of graphical efficiency.
-
-== Books
-
-#{
-  let bib = load-bibliography(read("books.bib"))
-  for item in bib.values().rev() [
-    #let data = item.fields
-    - #strong(data.year): #emph(data.title)
-  ]
-}
-
-== Papers
-
-#{
-  let bib = load-bibliography(read("papers.bib"))
-  for item in bib.values().rev() [
-    #let data = item.fields
-    - #data.author, "#data.title," #emph(data.journal), #data.year. DOI: #link(data.url)[#data.doi]
-  ]
-}
-
 
 == Education
 
-- PhD in Political Science: Yale University (1968).
-- MS in Statistics: Stanford University.
-- BS in Statistics: Stanford University.
+- *2025--Present*: MRes Human Geography and Urban Studies, London School of Economics and Political Science.
+- *2024*: Visiting student at the School of Literature, Science and Art, University of Michigan, Ann Arbor.
+- *2021-2025*: BSS in Sociology at the Faculty of Social Science, University of Macau.
+
+
+
+== Selected Conference Presentations
+
+- *2025*: RGS-IBG Annual International Conference, Birmingham.
+- *2025*: Annual Meeting of American Sociological Association (ASA), Chicago.
+- *2025*: Annual Symposium on Cultural Geography of the Geographical Society of China, Kunming.
