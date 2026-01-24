@@ -10,4 +10,4 @@
 
 == 2024
 
-- #link("2023-03-29-birthday-feelings/")[23歲！]
+- #link("2023-03-29-birthday-feelings/")[20歲！]
