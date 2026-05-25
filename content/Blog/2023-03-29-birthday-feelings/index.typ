@@ -1,7 +1,7 @@
 #import "../index.typ": template, tufted
 #show: template
 
-= 23歲！
+= 20歲！
 
 🎉二十岁。
 
